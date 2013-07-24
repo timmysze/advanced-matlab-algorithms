@@ -1,7 +1,7 @@
 advanced-matlab-algorithms
 ==========================
 
-My optimized solutions to advanced coding challenges using Matlab.
+My linear-time Matlab solutions to some advanced coding challenges.
 
 
 ##Tic-Tac-Toe-Tomek
